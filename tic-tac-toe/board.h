@@ -10,6 +10,7 @@ class Board{
     public:
         Board();
         void draw(void);
+        bool fill(int cell);
     
 };
 
